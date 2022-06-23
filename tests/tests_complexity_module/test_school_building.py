@@ -1,9 +1,9 @@
 from algorithms.complexity_testing import school_building
 
 
-def test_station_counter():
+def test_school_geo_plan():
     """
-    Test for station_counter programme
+    Test for school_geo_plan programme
     :return: None
     """
     test_case_1 = [[4, [1, 2, 3, 4]], 2]
@@ -14,8 +14,12 @@ def test_station_counter():
     test_case_6 = [[1, [10]], 10]
 
     test_container = [
-        test_case_1, test_case_2, test_case_3,
-        test_case_4, test_case_5, test_case_6
+        test_case_1,
+        test_case_2,
+        test_case_3,
+        test_case_4,
+        test_case_5,
+        test_case_6,
     ]
 
     for test_case in test_container:

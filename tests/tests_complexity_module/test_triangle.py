@@ -14,8 +14,12 @@ def test_triangle_task():
     test_case_6 = [[5, [10, 0]], 2]
 
     test_container = [
-        test_case_1, test_case_2, test_case_3,
-        test_case_4, test_case_5, test_case_6
+        test_case_1,
+        test_case_2,
+        test_case_3,
+        test_case_4,
+        test_case_5,
+        test_case_6,
     ]
 
     for test_case in test_container:

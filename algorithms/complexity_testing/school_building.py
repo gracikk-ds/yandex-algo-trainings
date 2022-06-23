@@ -9,7 +9,7 @@ def school_geo_plan(
     Finding best school position
     :param number_of_students: number of students in school
     :param coords: coordinates of pupil's homes
-    :return: 
+    :return:
     """
     if number_of_students is None:
         number_of_students = int(input())
