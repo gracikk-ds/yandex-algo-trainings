@@ -13,3 +13,13 @@
 | C. Даты                  | Solved :white_check_mark: | Tested :white_check_mark: |
 | D. Строительство школы   | Solved :white_check_mark: | Tested :white_check_mark: |
 | E. Точка и треугольник   | Solved :white_check_mark: | Tested :white_check_mark: |
+  
+### 2. Linear Search tasks
+
+| Task Name                | Task Status                      | Tests status                     |
+| :----------------------  | :------------------------------: | :------------------------------: |
+| A. Interactor            | In a Progress :white_check_mark: | In a Progress :white_check_mark: |
+| B. Кольцевая линия метро | In a Progress :white_check_mark: | In a Progress :white_check_mark: |
+| C. Даты                  | In a Progress :white_check_mark: | In a Progress :white_check_mark: |
+| D. Строительство школы   | In a Progress :white_check_mark: | In a Progress :white_check_mark: |
+| E. Точка и треугольник   | In a Progress :white_check_mark: | In a Progress :white_check_mark: |
