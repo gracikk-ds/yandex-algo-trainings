@@ -16,10 +16,10 @@
   
 ### 2. Linear Search tasks
 
-| Task Name                | Task Status                      | Tests status                     |
-| :----------------------  | :------------------------------: | :------------------------------: |
-| A. Interactor            | In a Progress :white_check_mark: | In a Progress :white_check_mark: |
-| B. Кольцевая линия метро | In a Progress :white_check_mark: | In a Progress :white_check_mark: |
-| C. Даты                  | In a Progress :white_check_mark: | In a Progress :white_check_mark: |
-| D. Строительство школы   | In a Progress :white_check_mark: | In a Progress :white_check_mark: |
-| E. Точка и треугольник   | In a Progress :white_check_mark: | In a Progress :white_check_mark: |
+| Task Name                | Task Status          | Tests status         |
+| :----------------------  | :------------------: | :------------------: |
+| A. Interactor            | In a Progress :soon: | In a Progress :soon: |
+| B. Кольцевая линия метро | In a Progress :soon: | In a Progress :soon: |
+| C. Даты                  | In a Progress :soon: | In a Progress :soon: |
+| D. Строительство школы   | In a Progress :soon: | In a Progress :soon: |
+| E. Точка и треугольник   | In a Progress :soon: | In a Progress :soon: |
