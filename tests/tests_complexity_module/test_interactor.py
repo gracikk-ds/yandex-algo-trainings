@@ -15,8 +15,12 @@ def test_interactor():
     test_case_7 = [[3000, 3000, 3000], "Input Error"]
 
     test_container = [
-        test_case_1, test_case_2, test_case_3,
-        test_case_4, test_case_5, test_case_6,
+        test_case_1,
+        test_case_2,
+        test_case_3,
+        test_case_4,
+        test_case_5,
+        test_case_6,
         test_case_7,
     ]
 

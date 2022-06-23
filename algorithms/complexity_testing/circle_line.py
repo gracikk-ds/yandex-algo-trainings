@@ -1,7 +1,7 @@
 def station_counter(
-        total_station_number=None,
-        home_station=None,
-        work_station=None,
+    total_station_number=None,
+    home_station=None,
+    work_station=None,
 ) -> int:
     """
     Count station between points in a circle

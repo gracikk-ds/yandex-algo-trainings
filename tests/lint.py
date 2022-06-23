@@ -8,7 +8,7 @@ from pylint.lint import Run
     "--path",
     help="path to directory you want to run pylint",
     default="./algorithms",
-    type=str
+    type=str,
 )
 @click.option(
     "--threshold", help="score threshold to fail pylint runner", default=7, type=float

@@ -2,9 +2,7 @@ from typing import Union, Any
 
 
 def interactor_verdict(
-        task_code=None,
-        interactor_result=None,
-        checker_result=None
+    task_code=None, interactor_result=None, checker_result=None
 ) -> Union[Union[str, int], Any]:
     """
     1. Interactor task
@@ -78,4 +76,3 @@ def interactor_verdict(
 if __name__ == "__main__":
     result = interactor_verdict()
     print(f"interactor_result: {result}")
-
