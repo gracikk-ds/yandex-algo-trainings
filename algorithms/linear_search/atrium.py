@@ -1,7 +1,4 @@
-def stones(
-        bench_length=None,
-        stones_positions=None
-):
+def stones(bench_length=None, stones_positions=None):
     """
     List the blocs that we have to leave
     :param bench_length: length of bench
@@ -20,8 +17,8 @@ def stones(
         stones_positions.append(bench_length / 2)
         stones_positions.sort()
         index = stones_positions.index(bench_length / 2)
-        left_bloc = int(stones_positions[index-1])
-        right_bloc = int(stones_positions[index+1])
+        left_bloc = int(stones_positions[index - 1])
+        right_bloc = int(stones_positions[index + 1])
         print(left_bloc, right_bloc)
         return [left_bloc, right_bloc]
 

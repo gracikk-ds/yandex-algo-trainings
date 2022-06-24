@@ -1,7 +1,4 @@
-def diploma_time(
-        amount_of_folders=None,
-        diploma_amount_per_folder=None
-) -> int:
+def diploma_time(amount_of_folders=None, diploma_amount_per_folder=None) -> int:
     """
     Finding minimal time
     :param amount_of_folders: folders to check
