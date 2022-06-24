@@ -1,9 +1,9 @@
 from algorithms.linear_search import diplom
 
 
-def test_atrium():
+def test_diplom():
     """
-    Test for palindrome programme
+    Test for diplom programme
     :return: None
     """
     test_case_1 = [[2, [2, 1]], 1]

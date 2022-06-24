@@ -3,7 +3,7 @@ from algorithms.linear_search import atrium
 
 def test_atrium():
     """
-    Test for palindrome programme
+    Test for atrium programme
     :return: None
     """
     test_case_1 = [[5, [0, 2]], 2]
